@@ -1,0 +1,661 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project
+vcmd_cfg
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1619841053
+!i10b 1
+!s100 gfioi_i`ooW=Z<[h8a?9S3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0mM>];K4PaEiP16YCO?J<2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again
+w1619738144
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/cmd_cfg.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/cmd_cfg.sv
+!i122 49
+L0 1 230
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1619841053.000000
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/cmd_cfg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/cmd_cfg.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vCycloneIV
+R0
+R1
+!i10b 1
+!s100 1Gz_PE8mSbN[9g<IO>fOe3
+R2
+I3_g3[OR@3mEeoJCg;EMA:1
+R3
+S1
+R4
+Z9 w1619383714
+Z10 8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/CycloneIV.sv
+Z11 FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/CycloneIV.sv
+!i122 50
+L0 1 166
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/CycloneIV.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/CycloneIV.sv|
+!i113 1
+R7
+R8
+n@cyclone@i@v
+vESC_interface
+R0
+R1
+!i10b 1
+!s100 aC7if6@Ie9eFI>BPiIU4h1
+R2
+I8ehNSfA4kbL6O4]h;6OSN1
+R3
+S1
+R4
+w1619840900
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESC_interface.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESC_interface.sv
+!i122 51
+L0 1 66
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESC_interface.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESC_interface.sv|
+!i113 1
+R7
+R8
+n@e@s@c_interface
+vESCs
+R0
+R1
+!i10b 1
+!s100 ]9N>VDO2cRWJaCmb`<goQ2
+R2
+I<;8CkO_0<TFQ`Dm>fMUHZ1
+R3
+S1
+R4
+w1619741154
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESCs.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESCs.sv
+!i122 52
+L0 1 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESCs.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/ESCs.sv|
+!i113 1
+R7
+R8
+n@e@s@cs
+vflght_cntrl
+R0
+R1
+!i10b 1
+!s100 olnEIh_<FZ4b=@0A]D=La1
+R2
+INOVl6`z]Sh6JUSm7OhAJ50
+R3
+S1
+R4
+w1619742188
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/flght_cntrl.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/flght_cntrl.sv
+!i122 53
+L0 1 105
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/flght_cntrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/flght_cntrl.sv|
+!i113 1
+R7
+R8
+vinert_intf
+R0
+R1
+!i10b 1
+!s100 YiVIlhE>YR`chhFVD^Z=A0
+R2
+INTHbLIXWh8aQIS4<`Xz0K2
+R3
+S1
+R4
+w1619740635
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inert_intf.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inert_intf.sv
+!i122 54
+L0 1 296
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inert_intf.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inert_intf.sv|
+!i113 1
+R7
+R8
+vinertial_integrator
+R0
+R1
+!i10b 1
+!s100 >i?1XMdl:Y8le7DEzmMX;0
+R2
+IMC>YN8jn?MW3z:Z4;B8bC0
+R3
+S1
+R4
+w1619383716
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inertial_integrator.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inertial_integrator.sv
+!i122 55
+L0 1 264
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inertial_integrator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/inertial_integrator.sv|
+!i113 1
+R7
+R8
+vinverse_ESC
+R0
+R1
+!i10b 1
+!s100 MNE2Szkh3DV[>l?az@gz_1
+R2
+INenGTQ5i48LX?G3=a0egh1
+R3
+S1
+R4
+R9
+R10
+R11
+!i122 50
+L0 171 37
+R5
+r1
+!s85 0
+31
+R6
+R12
+R13
+!i113 1
+R7
+R8
+ninverse_@e@s@c
+vPB_release
+R0
+R1
+!i10b 1
+!s100 7W@GV?BRHaF=98deERJRm1
+R2
+Ie]ULOTAmzb47NeKK0Y@E;0
+R3
+S1
+R4
+Z14 w1619383308
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PB_release.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PB_release.sv
+!i122 56
+L0 1 20
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PB_release.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PB_release.sv|
+!i113 1
+R7
+R8
+n@p@b_release
+vPD_math
+R0
+Z15 !s110 1619841054
+!i10b 1
+!s100 jgh2@MYWF[2C=VS9HalCV2
+R2
+IH8XW99h5dGUPKVc7:eVd`1
+R3
+S1
+R4
+w1619838676
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PD_math.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PD_math.sv
+!i122 57
+L0 1 75
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PD_math.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/PD_math.sv|
+!i113 1
+R7
+R8
+n@p@d_math
+vQuadCopter
+R0
+R15
+!i10b 1
+!s100 Yf^aFekm33NnO];@e?SOk1
+R2
+IWEV=8EE8ZZehR=V5I`VOc2
+R3
+S1
+R4
+w1619560936
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter.sv
+!i122 58
+L0 1 100
+R5
+r1
+!s85 0
+31
+Z16 !s108 1619841054.000000
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter.sv|
+!i113 1
+R7
+R8
+n@quad@copter
+vQuadCopter_synthesis_tb
+R0
+R15
+!i10b 1
+!s100 aQ9LmificZ_;POQ@hKBaW2
+R2
+I@X8J1:4W;nINVIDL7O9d[1
+R3
+S1
+R4
+w1619840379
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_synthesis_tb.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_synthesis_tb.sv
+!i122 59
+L0 2 113
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_synthesis_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_synthesis_tb.sv|
+!i113 1
+R7
+R8
+n@quad@copter_synthesis_tb
+vQuadCopter_tb
+R0
+R15
+!i10b 1
+!s100 AWe9d^4Ao`5V<G9lVcCCC3
+R2
+ILHKzCBOXNYhPLLki1XDzR2
+R3
+S1
+R4
+w1619835912
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb.sv
+Z17 FQuadCopter_tb_tasks.sv
+!i122 60
+Z18 L0 1 674
+R5
+r1
+!s85 0
+31
+R16
+!s107 QuadCopter_tb_tasks.sv|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb.sv|
+!i113 1
+R7
+R8
+n@quad@copter_tb
+vQuadCopter_tb1
+R0
+R15
+!i10b 1
+!s100 h>Gck9]z1Zk^@98gno]VC0
+R2
+I9ieY2j[hIjh@3AK>Vfc223
+R3
+S1
+R4
+w1619835849
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb1.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb1.sv
+R17
+!i122 61
+L0 1 673
+R5
+r1
+!s85 0
+31
+R16
+!s107 QuadCopter_tb_tasks.sv|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb1.sv|
+!i113 1
+R7
+R8
+n@quad@copter_tb1
+vQuadCopter_tb2
+R0
+R15
+!i10b 1
+!s100 ;HOb[M3ga8Qo]]Gf38A<K2
+R2
+I5bCi2aEI]ZTf05H`FhGUV3
+R3
+S1
+R4
+w1619835770
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb2.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb2.sv
+R17
+!i122 62
+L0 1 676
+R5
+r1
+!s85 0
+31
+R16
+!s107 QuadCopter_tb_tasks.sv|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb2.sv|
+!i113 1
+R7
+R8
+n@quad@copter_tb2
+vQuadCopter_tb3
+R0
+R15
+!i10b 1
+!s100 M3GdC24id]zEU@W1JbKJ03
+R2
+I]ed38LnjRIW^>Jb@z6n6Z0
+R3
+S1
+R4
+w1619835537
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb3.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb3.sv
+R17
+!i122 63
+R18
+R5
+r1
+!s85 0
+31
+R16
+!s107 QuadCopter_tb_tasks.sv|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb3.sv|
+!i113 1
+R7
+R8
+n@quad@copter_tb3
+vQuadCopter_tb4
+R0
+R15
+!i10b 1
+!s100 JDXo38=m_ng[k[9MkDjOl1
+R2
+Id5YL0egROG?TUzah8nFY=2
+R3
+S1
+R4
+w1619835617
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb4.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb4.sv
+R17
+!i122 64
+L0 1 685
+R5
+r1
+!s85 0
+31
+R16
+!s107 QuadCopter_tb_tasks.sv|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/QuadCopter_tb4.sv|
+!i113 1
+R7
+R8
+n@quad@copter_tb4
+vRemoteComm
+R0
+R15
+!i10b 1
+!s100 G?D[<CX5YKNkQ=:Z@KU=H1
+R2
+IhnMdDUQ]@H]nKz=4YgBQ01
+R3
+S1
+R4
+Z19 w1619838889
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/RemoteComm.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/RemoteComm.sv
+!i122 65
+L0 1 110
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/RemoteComm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/RemoteComm.sv|
+!i113 1
+R7
+R8
+n@remote@comm
+vreset_synch
+R0
+R15
+!i10b 1
+!s100 V9m=Cil0U7k_5M@5R9U[E0
+R2
+I_gboN=49K1GTdE:Ebfe7D3
+R3
+S1
+R4
+w1619466476
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/reset_synch.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/reset_synch.sv
+!i122 66
+L0 1 26
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/reset_synch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/reset_synch.sv|
+!i113 1
+R7
+R8
+vSPI_iNEMO3
+R0
+R15
+!i10b 1
+!s100 5o6n2hQ]n83Q??4ZM2dFK0
+R2
+IdB1gNKmnJe0Q]Na8JgHTo1
+R3
+S1
+R4
+R9
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_iNEMO3.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_iNEMO3.sv
+!i122 67
+L0 1 207
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_iNEMO3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_iNEMO3.sv|
+!i113 1
+R7
+R8
+n@s@p@i_i@n@e@m@o3
+vSPI_mnrch
+R0
+R15
+!i10b 1
+!s100 8WJ0m^B87L5D]kYDiNLe[2
+R2
+I[m38PLAo[KC:MdR1M@d5m3
+R3
+S1
+R4
+R14
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_mnrch.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_mnrch.sv
+!i122 68
+L0 1 123
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_mnrch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_mnrch.sv|
+!i113 1
+R7
+R8
+n@s@p@i_mnrch
+vUART
+R0
+R15
+!i10b 1
+!s100 L2UBb[PP6?Goj^Ee5:1YK1
+R2
+I?M]0HBAOflI_XQA`=bd7P1
+R3
+S1
+R4
+R14
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART.sv
+!i122 69
+L0 1 24
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t
+vUART_comm
+R0
+R15
+!i10b 1
+!s100 @M2oj=56Sc8W:@4<F@>H[1
+R2
+I4Aom35Y@E@PfF]R<zS35Q1
+R3
+S1
+R4
+R19
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_comm.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_comm.sv
+!i122 70
+L0 1 130
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_comm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_comm.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_comm
+vUART_rcv
+R0
+Z20 !s110 1619841055
+!i10b 1
+!s100 joN<1Sk>5JB7R^96:TciK2
+R2
+I>ZE8C<m_kD8R5]aPS10b@0
+R3
+S1
+R4
+R14
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_rcv.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_rcv.sv
+!i122 71
+L0 1 132
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_rcv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_rcv.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_rcv
+vUART_tx
+R0
+R20
+!i10b 1
+!s100 bP7e_J1XWIaRDZ6[nJ:BT1
+R2
+I?9B87P=j>1FYHWF9HX>@43
+R3
+S1
+R4
+R14
+8C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_tx.sv
+FC:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_tx.sv
+!i122 72
+L0 1 113
+R5
+r1
+!s85 0
+31
+!s108 1619841055.000000
+!s107 C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/UART_tx.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_tx

@@ -1,0 +1,28 @@
+vsim -gui work.QuadCopter_synthesis_tb
+# vsim -gui work.QuadCopter_synthesis_tb 
+# Start time: 16:48:29 on Sep 17,2021
+# Loading sv_std.std
+# Loading work.QuadCopter_synthesis_tb
+# Loading work.CycloneIV
+# Loading work.reset_synch
+# Loading work.SPI_iNEMO3
+# ** Error (suppressible): (vsim-3009) [TSCALE] - Module 'SPI_iNEMO3' does not have a timeunit/timeprecision specification in effect, but other modules do.
+#    Time: 0 ps  Iteration: 0  Instance: /QuadCopter_synthesis_tb/iQUAD/iNEMO File: C:/Users/mtthw/School/Spring 2021/ECE 551/Final Project/Test Again/SPI_iNEMO3.sv
+# Loading work.inverse_ESC
+# Loading work.QuadCopter
+# Loading work.UART_comm
+# Loading work.UART
+# Loading work.UART_tx
+# Loading work.UART_rcv
+# Loading work.cmd_cfg
+# Loading work.inert_intf
+# Loading work.SPI_mnrch
+# Loading work.inertial_integrator
+# Loading work.flght_cntrl
+# Loading work.PD_math
+# Loading work.ESCs
+# Loading work.ESC_interface
+# Loading work.RemoteComm
+# Error loading design
+# End time: 16:48:30 on Sep 17,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1

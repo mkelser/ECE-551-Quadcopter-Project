@@ -1,0 +1,58 @@
+## read in verilog source
+read_file -format sverilog {./QuadCopter.sv ./UART_comm.sv ./UART.sv ./UART_rcv.sv ./UART_tx.sv ./cmd_cfg.sv ./inertial_integrator.sv ./inert_intf.sv ./PB_release.sv ./reset_synch.sv ./SPI_mnrch.sv ./ESCs.sv ./ESC_interface.sv ./flght_cntrl.sv ./PD_math.sv}
+
+set current_design QuadCopter
+link
+
+## define 266.6667 MHz frequency clock
+create_clock -name "clk" -period 3.75 -waveform {0 1} {clk}
+
+## perform set don't touch on clock network
+set_dont_touch_network [find port clk]
+
+## set prim_inputs as all inputs excpet clock
+set prim_inputs [remove_from_collection [all_inputs] [find port clk]]
+
+# set all input delays to 0.25 ns on all inputs other than clock
+set_input_delay -clock clk 0.25 $prim_inputs
+
+# set a dive strength equivalent to a 2-input NAND of size 2 from Synopsys
+set_driving_cell -lib_cell NAND2x2_RVT -library saed32rvt_tt0p85v25c $prim_inputs
+
+# set drive rst_n drive
+set_dont_touch_network [get_net iRST/RST_n]
+
+# set an output delay of 0.5 ns on all outputs
+set_output_delay -clock clk 0.5 [all_outputs]
+
+# set a 0.10 pf load on all outputs
+set_load 0.1 [all_outputs]
+
+# set max transition time to 0.15 ns on all nodes
+set_max_transition 0.15 [current_design]
+
+# set clock uncertainty to 0.20 ns for our clock
+set_clock_uncertainty 0.20 clk
+
+# employ Synopsis 32 nm wire load model for a block of size 16000 sq microns
+set_wire_load_model -name 16000 -library saed32rvt_tt0p85v25c
+
+compile -map_effort medium
+
+ungroup -all -flatten
+
+set_fix_hold clk
+
+compile -map_effort high
+
+report_timing -delay min
+
+report_timing -delay max
+
+report_area > area_report.txt
+
+# write out the gate level verilog netlist
+write -format verilog QuadCopter -output QuadCopter.vg
+
+# write out to SDC file
+write_sdc QuadCopter.sdc
